@@ -1,0 +1,24 @@
+{
+  "name": "imageuploaders3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitKaura/ImageUploaderS3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitKaura/ImageUploaderS3/issues"
+  },
+  "homepage": "https://github.com/AnkitKaura/ImageUploaderS3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1283.0",
+    "parse-multipart": "^1.0.4"
+  }
+}
